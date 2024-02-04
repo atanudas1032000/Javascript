@@ -1,0 +1,15 @@
+>>> JAVA SCRIPT IS 
+
+1.-> SYNCHRONOUS
+2. -> SINGLE THREADED   (Default)
+
+LANGUAGE.
+
+>>>EXECUTION CONTEXT  (One line of code at a time)  --> Each one is wait for last one to complete  before  execution.
+
+
+
+call stack
+
+memory heap
+1. 
